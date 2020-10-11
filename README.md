@@ -3,4 +3,4 @@
 
 Alterações utilizando Visual Studio
 
-Alteraçôes utilizando o editor do Github
+Alterações utilizando o editor do Github
