@@ -2,3 +2,5 @@
  Aprendendo passo a passo sobre Git e Github
 
 Alterações utilizando Visual Studio
+
+Alteraçôes utilizando o editor do Github
