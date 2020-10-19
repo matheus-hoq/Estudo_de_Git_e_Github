@@ -5,4 +5,5 @@ Alterações utilizando Visual Studio 💻
 
 Alterações utilizando o editor do Github 💻
 
-![](./cover.png)
+<img src="cover.png"  width="350"
+               height="700"
