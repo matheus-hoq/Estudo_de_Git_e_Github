@@ -6,4 +6,4 @@ Alterações utilizando Visual Studio 💻
 Alterações utilizando o editor do Github 💻
 
 <img src="cover.png"  width="350"
-               height="700" />
+               height="300" />
