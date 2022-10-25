@@ -1,11 +1,11 @@
 # Estudo_de_Git_e_Github
- Aprendendo passo a passo sobre Git e Github
+ - Aprendendo passo a passo sobre Git e Github
 
-Alterações utilizando Visual Studio
+- Alterações utilizando Visual Studio
 
-Alterações utilizando o editor do Github
+- Alterações utilizando o editor do Github
 
-Atualização pelo Visual Studio
+- Atualização pelo Visual Studio
 
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
